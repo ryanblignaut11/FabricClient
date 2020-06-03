@@ -1,0 +1,92 @@
+[
+  {
+    "ItemName": "ice",
+    "numberOfItems": 1920,
+    "numChests": 3
+  },
+  {
+    "ItemName": "stone",
+    "numberOfItems": 579,
+    "numChests": 3
+  },
+  {
+    "ItemName": "jungle button",
+    "numberOfItems": 577,
+    "numChests": 2
+  },
+  {
+    "ItemName": "stripped acacia wood",
+    "numberOfItems": 192,
+    "numChests": 2
+  },
+  {
+    "ItemName": "jungle planks",
+    "numberOfItems": 128,
+    "numChests": 2
+  },
+  {
+    "ItemName": "trapped chest",
+    "numberOfItems": 128,
+    "numChests": 1
+  },
+  {
+    "ItemName": "chest",
+    "numberOfItems": 66,
+    "numChests": 3
+  },
+  {
+    "ItemName": "birch planks",
+    "numberOfItems": 64,
+    "numChests": 1
+  },
+  {
+    "ItemName": "cobblestone",
+    "numberOfItems": 64,
+    "numChests": 1
+  },
+  {
+    "ItemName": "gold ore",
+    "numberOfItems": 64,
+    "numChests": 1
+  },
+  {
+    "ItemName": "jungle log",
+    "numberOfItems": 64,
+    "numChests": 1
+  },
+  {
+    "ItemName": "water bucket",
+    "numberOfItems": 2,
+    "numChests": 2
+  },
+  {
+    "ItemName": "command block",
+    "numberOfItems": 2,
+    "numChests": 1
+  },
+  {
+    "ItemName": "diamond sword",
+    "numberOfItems": 1,
+    "numChests": 1
+  },
+  {
+    "ItemName": "dirt",
+    "numberOfItems": 1,
+    "numChests": 1
+  },
+  {
+    "ItemName": "magenta shulker box",
+    "numberOfItems": 1,
+    "numChests": 1
+  },
+  {
+    "ItemName": "name tag",
+    "numberOfItems": 1,
+    "numChests": 1
+  },
+  {
+    "ItemName": "oak wood",
+    "numberOfItems": 1,
+    "numChests": 1
+  }
+]

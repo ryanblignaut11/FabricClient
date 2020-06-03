@@ -1,0 +1,33 @@
+{
+  "required": true,
+  "package": "theSilverEcho.tweaks.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+	"Baked",
+	"ChunkMixin",
+	"FontRenderMixin",
+	"ItemEntityMixin",
+	"ItemEntityRenderMixin",
+	"ParticleRenderMixin",
+	"PlayerEntityRendererMixin",
+	"PotionMixin",
+	"RenderItem",
+	"SplashScreenMixin",
+	"TabMixin",
+	"TitleScreenMixin",
+	"WorldRendererMixin"
+  ],
+  "client": [
+	"ChatGui",
+	"GlintColour",
+	"Gui",
+	"MixinClientPlayerEntity",
+	"MyMixin",
+	"NameTagMixin",
+	"Network",
+	"NoGlowingPots"
+  ],
+  "injectors": {
+	"defaultRequire": 1
+  }
+}
